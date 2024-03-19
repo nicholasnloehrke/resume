@@ -1,1 +1,1 @@
-![resume](resume_spring_2024)
+![resume](resume_spring_2024.pdf)
